@@ -1,5 +1,7 @@
-# hello-world
+# LPTHW
 just another repository
 ***
 * 2017-11-11 17:17:54
 * Began to learn python from zero on Nov.1. Today learn how to use github.
+* 2018-1-23 21：51：50
+* Learn with "Learn Python3 The Hard Way" and upload my Exercise files.
