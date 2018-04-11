@@ -57,7 +57,8 @@ def cthulhu_room():
 
 def dead(why):
     print(why, "Good job!")
-    exit(0)
+    exit(0)                # exit(0) means a clean exit without any errors/problems
+                           # exit(1) means there was some issue/error/problem and that is why the program is exiting.
 
 def start():
     print("You are in a dark room.")

@@ -21,7 +21,7 @@ cities['OR'] = 'Portland'
 # print out some cities
 print('-' * 10)
 print("NY State has: ", cities['NY'])
-print("OR Stete has: ", cities['OR'])
+print("OR State has: ", cities['OR'])
 
 # print　some states
 print('-' * 10)

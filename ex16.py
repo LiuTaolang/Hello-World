@@ -30,7 +30,7 @@ target.write(line3)
 target.write("\n")
 """
 # Use strings, formats, and escapesto print out line1, line2,
-# and line3 with just one target.write() commandinstead of six.
+# and line3 with just one target.write() command instead of six.
 lines = line1 +'\n'+ line2 + '\n' + line3 + '\n'
 target.write(lines)
 

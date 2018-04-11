@@ -20,3 +20,7 @@ w = "This is the left side of..."                     # a variable with evaluati
 e = "a string with a right side."                     # ditto
 
 print(w + e)                                          # join string of w and e then print
+
+# Notes:"f-string"
+# 1.f"some stuff here {avariable}"
+# 2.".format()"
